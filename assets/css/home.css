@@ -1,0 +1,17 @@
+#home {
+    background-image: url('../../images/Wrigley_Long_Beach_California.jpg'); /* photo from wikipedia */
+}
+
+.content-img {
+    border-radius: 50%;
+    max-width: 400px;
+    height: 100%;
+    background-color: white;
+    margin: 0 auto;
+}
+
+.rounded-img {
+    margin-top: 20px;
+    border-radius: 50%;
+    width: 80%;
+}
