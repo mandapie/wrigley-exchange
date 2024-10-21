@@ -1,5 +1,6 @@
 #home {
-    background-image: url('../../images/Wrigley_Long_Beach_California.jpg'); /* photo from wikipedia */
+    /* https://commons.wikimedia.org/wiki/File:Wrigley_Long_Beach_California.jpg */
+    background-image: url('../../images/Wrigley_Long_Beach_California.jpg');
 }
 
 .content-img {
@@ -14,4 +15,13 @@
     margin-top: 20px;
     border-radius: 50%;
     width: 80%;
+}
+
+#img-credit {
+    background-color: rgba(255, 255, 255, 0.9);
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    text-align: center;
+    padding: 10px;
 }
